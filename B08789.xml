@@ -1,0 +1,500 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The coffee-mans granado discharged upon the Maidens complaint against coffee.  In a dialogue between Mr. Black-burnt and Democritus; wherein is discovered severall strange, wonderful, and miraculous cures performed by coffee, (the like never heard of since the creation.) with the names of the persons, and places of their abode, who were cured when left off by the physitians.  Also some merry passages between Peg and Cis, two merry milk-maids of Islington, touching the rare vertues of chocolate / written by Don Bollicosgo Armuthaz.</title>
+            <author>Armuthaz, Bollicosgo.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08789</idno>
+            <idno type="STC">Wing C4887A</idno>
+            <idno type="STC">ESTC R171418</idno>
+            <idno type="EEBO-CITATION">64551111</idno>
+            <idno type="OCLC">ocm 64551111</idno>
+            <idno type="VID">184479</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08789)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184479)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2864:40)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The coffee-mans granado discharged upon the Maidens complaint against coffee.  In a dialogue between Mr. Black-burnt and Democritus; wherein is discovered severall strange, wonderful, and miraculous cures performed by coffee, (the like never heard of since the creation.) with the names of the persons, and places of their abode, who were cured when left off by the physitians.  Also some merry passages between Peg and Cis, two merry milk-maids of Islington, touching the rare vertues of chocolate / written by Don Bollicosgo Armuthaz.</title>
+                  <author>Armuthaz, Bollicosgo.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Johnson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Coffee --  Anecdotes, facetiae, satire, etc. --  Early works to 1800.</term>
+               <term>Coffeehouses --  England --  Anecdotes, facetiae, satire, etc. --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:184479:1" rendition="simple:additions"/>
+            <pb facs="tcp:184479:1" rendition="simple:additions"/>
+            <pb facs="tcp:184479:2"/>
+            <pb facs="tcp:184479:2"/>
+            <p>THE Coffee-Mans Granado DISCHARGED UPON THE Maidens Complaint AGAINST COFFEE.</p>
+            <p>In a Dialogue between Mr. <hi>Black-burnt</hi> and <hi>Democritus;</hi> Wherein is Diſcovered ſeverall Strange, Wonderful, and Miraculous Cures performed by <hi>COFFEE,</hi> (the like never heard of ſince the Creation.) With the names of the Perſons, and Places of their abode, who were cured when left off by the Phyſitians.</p>
+            <p>ALSO Some Merry Paſſages between <hi>Peg</hi> and <hi>Cis,</hi> two Merry Milk-maids of <hi>Iſlington,</hi> touching the rare Vertues of <hi>CHOCOLATE.</hi>
+            </p>
+            <p>Written by <hi>Don Bollicoſgo Armu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>haz,</hi> to confute the Au<g ref="char:EOLhyphen"/>thor of that Lying Pamphlet.</p>
+            <p>LONDON, Printed for J. Johnſon, 1663.</p>
+            <pb facs="tcp:184479:3"/>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="3" facs="tcp:184479:3" rendition="simple:additions"/>
+            <head>A Dialogue between <hi>Democritus,</hi> and <hi>Mr.</hi> BLACK-BURNT.</head>
+            <sp>
+               <speaker>Black-burnt.</speaker>
+               <p>
+                  <seg rend="decorInit">W</seg>Ell over-taken, whether now ſo faſt?</p>
+            </sp>
+            <sp>
+               <speaker>Democtitus.</speaker>
+               <p>To ſee how that Book ſeels I Print<g ref="char:EOLhyphen"/>ed laſt.</p>
+            </sp>
+            <sp>
+               <speaker>Black.</speaker>
+               <p>What Book is that, good Sir, you late did ſell?</p>
+            </sp>
+            <sp>
+               <speaker>Democ.</speaker>
+               <p>The <hi>Maids Complaint,</hi> I hope you like it well.</p>
+            </sp>
+            <sp>
+               <speaker>Black.</speaker>
+               <lg>
+                  <l>So well E'faith, that had I my deſire,</l>
+                  <l>I'de burn thy ſelf, and Book in ſcorching fire.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Democ.</speaker>
+               <lg>
+                  <l>I hope not ſo, for now I do recant,</l>
+                  <l>And will its worth beyond Rich <hi>Alegant,</hi>
+                  </l>
+                  <l>Or <hi>Nector</hi> raiſe, ſo that the World ſhall think,</l>
+                  <l>It is for health beyond all Cordial drink.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Black.</speaker>
+               <lg>
+                  <l>If ſo you do, then will I raiſe five pound,</l>
+                  <l>To gratifie thy worth in ſhillings round.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Democ.</speaker>
+               <lg>
+                  <l>You are the Man Sir; Money is the Thing</l>
+                  <l>That does a <hi>POETS</hi> Wits to Bondage bring:</l>
+                  <l>I like your promiſe; now my Pen ſhall crack,</l>
+                  <l>And raiſe thy <hi>Coffee</hi> higher far then Sack;</l>
+                  <l>I'le cauſe the gods themſelves that drank before</l>
+                  <l>
+                     <hi>Nector, Ambroſia,</hi> thy Drink to adore;</l>
+                  <l>
+                     <hi>Coffee</hi> ſhall now make <hi>Bacchus</hi> poor, and he</l>
+                  <l>Shall beg, whil'ſt all his Cuſtome comes to thee.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Black.</speaker>
+               <lg>
+                  <l>O happy is this day that I thee met,</l>
+                  <l>Who was before near drowned in a Sweat;</l>
+                  <pb n="4" facs="tcp:184479:4"/>
+                  <l> Thy very promiſe made to me has cur'd</l>
+                  <l>That Agony, which I before indur'd;</l>
+                  <l>For now my gains will be a hundred more</l>
+                  <l>By Coffee-drinking then it was before.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Democ.</speaker>
+               <lg>
+                  <l>Give me your Money, and I will be bound</l>
+                  <l>To make each penny that you gain'd a pound:</l>
+                  <l>If that you do not by your <hi>Coffee</hi> get</l>
+                  <l>More in a day, then I by twelve moneths wit.</l>
+                  <l>For in its praiſe ſuch worth declare I ſhall,</l>
+                  <l>Will make your Drink Infallible to all.</l>
+                  <l>All <hi>Europe</hi> ſhall believe (though black as Ink)</l>
+                  <l>It is like Chriſtal; and no other Drink</l>
+                  <l>VVill health preſerve, ſo that in time you'l ſee,</l>
+                  <l>Your <hi>Coffee-Houſe</hi> ſhall never empty be.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Black.</speaker>
+               <lg>
+                  <l>If it be ſo, here Earneſt take to day,</l>
+                  <l>And Quarterly I will allow thee pay.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Democ.</speaker>
+               <lg>
+                  <l>I thank you Sir, I hope you by and by</l>
+                  <l>VVill ſhow the Cures, as they in Order lye.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Black.</speaker>
+               <p>But firſt, a little to tell thee of thy Errors <hi>Democritus,</hi> for I muſt give thee a gentle Laſh or too for thy ambition ſince thy Planet-ſtricken brain caus'd thee ſo to abuſe us, and that contrary to ſo many Authors who have in Large Volumes diſ<g ref="char:EOLhyphen"/>covered the worth of this Liquor for cure of all Maladies.</p>
+            </sp>
+            <sp>
+               <speaker>Demock.</speaker>
+               <p>I know 'its good for the Dropſie, and thoſe that are not of a hot Conſtitution.</p>
+            </sp>
+            <sp>
+               <speaker>Black.</speaker>
+               <p>But thou ſay'ſt again, that it is made of Old Cruſts, and ſhreds of Leather burnt and beaten to powder.</p>
+            </sp>
+            <sp>
+               <speaker>Democ.</speaker>
+               <p>VVhy, to tell you truth, the ſcent to any reaſonable man will ſeem no leſs then ſome ſuch compound; Old <hi>Hewſon</hi> being a likely blind <hi>Cobler</hi> to plot any thing againſt the <hi>Engliſh</hi> to be reveng'd for his Exilement.</p>
+            </sp>
+            <sp>
+               <speaker>Black.</speaker>
+               <p>But we can ſhew Patterns of the Berries to convince thee of thy Error. Then thou ſay'ſt we gain ten pence in the ſhilling; well we may, for if <hi>Mountebanks</hi> can take ten pound for what coſt but two pence; and it may be <hi>Kill</hi> inſtead of <hi>Cure</hi> the Patients; who would grudge a penny a diſh for their healths ſake for that which is <hi>Infallible</hi> for all <hi>Maladies.</hi> Thou might'ſt better complain of the <hi>Long-Lane</hi> Jews, who take 6. d. a moneth
+<pb n="5" facs="tcp:184479:4"/> for uſe in the pound, and a good pawn, which amounts to a<g ref="char:EOLhyphen"/>bove 30 <hi>l. per an.</hi> beſide <hi>Bill</hi> money; and many times 6. d for an odd day if it lie above a moneth; nay, ſome of them 12 d. a moneth, which is 60. <hi>l. per annum</hi> beſides the <hi>bill.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Democ.</speaker>
+               <p>I have an old black Cloake can teſtifie that well enough, for ſome of thoſe Moth-eating Cormorants have knaw'd as much <hi>Wool</hi> off from it in <hi>Chater-houſe-Lane,</hi> as is worth 25. s. when it coſt but ſix and twenty at firſt, ſo that it will hardly yield five groats in a forreign Country, if ſent for a Venter.</p>
+               <p>Now <hi>I</hi> would fain hear the rare Cures that have been per<g ref="char:EOLhyphen"/>formed by <hi>Coffee,</hi> as <hi>I</hi> may hereafter give a better account to the drinkers of that Liquor.</p>
+            </sp>
+            <sp>
+               <speaker>Blac.</speaker>
+               <p>Firſt, <hi>Benjamin Bad-cock</hi> drank <hi>Coffee</hi> in <hi>Layden,</hi> and his Wife Mis. <hi>Wood-a-mores</hi> daughter of that Town remained bar<g ref="char:EOLhyphen"/>ren four years, after which he left drinking <hi>Coffee,</hi> and in three quarters of a year ſhe had a goodly chopping boy.</p>
+            </sp>
+            <sp>
+               <speaker>Democ.</speaker>
+               <p>
+                  <hi>I</hi> confeſſe then it is better for barrenneſs, then a<g ref="char:EOLhyphen"/>gainſt it.</p>
+            </sp>
+            <sp>
+               <speaker>Black.</speaker>
+               <p>
+                  <hi>Anthony Lamley</hi> of <hi>White-chappel</hi> being troubled with a <hi>Priapiſmus</hi> a long time, drank <hi>Coffee,</hi> after which he had no<g ref="char:EOLhyphen"/>thing ever ſeen to ſtand but his Ears.</p>
+            </sp>
+            <sp>
+               <speaker>Democ.</speaker>
+               <p>This is alſo <hi>Probatum Eſt, I</hi> was not ſo good a Doctor before. But have you any more.</p>
+            </sp>
+            <sp>
+               <speaker>Black.</speaker>
+               <p>Yes, <hi>Helſen</hi> a Leather-weaver in <hi>Dalmacia</hi> was trou<g ref="char:EOLhyphen"/>bled with a Conſumption four years, and fell to <hi>Coffee</hi> a long time, by which he was ſo cured, that his pocket was as bare as a Birds-arſe.</p>
+            </sp>
+            <sp>
+               <speaker>D<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c.</speaker>
+               <p>
+                  <hi>I</hi> profeſs my Cloak is e'ne ſick of the ſame diſeaſe, and <hi>I</hi> think as well cured it is alſo <hi>Probatum Eſt.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Black.</speaker>
+               <p>Another nam'd <hi>Richard Banco</hi> of <hi>Catolougo</hi> lay of a dead <hi>Paiſie</hi> three years, and drinking <hi>Coffee,</hi> was ſo perfectly cu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'d, that the next day he was ſeen to go throrow the High<g ref="char:EOLhyphen"/>ſtreet upon 4. mens ſhoulders, to the admiration of his Neigh<g ref="char:EOLhyphen"/>bours who had not ſeen him ſome years before.</p>
+            </sp>
+            <sp>
+               <speaker>Democ.</speaker>
+               <p>This is a ſtrange cure, but <hi>I</hi> ſuppoſe he was ſome great Gyant, in regard he went upon four pair of Legs.</p>
+            </sp>
+            <sp>
+               <speaker>Black.</speaker>
+               <p>Another cal'd <hi>Calobra</hi> in <hi>Spantego,</hi> was troubled with a dimneſs of ſight, and drinking <hi>Coffee,</hi> an hour after he
+<pb n="6" facs="tcp:184479:5"/> broke his Faſt with a Meſs of Milk-Pottage, and the white of his Eyes drop't into the diſh.</p>
+            </sp>
+            <sp>
+               <speaker>Democ.</speaker>
+               <p>I ſhould not wiſh mine there, though his Cure was <hi>Probatim Eſt.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Black.</speaker>
+               <p>
+                  <hi>Anne Marina</hi> of <hi>Rotterdam</hi> was troubled with a Corn on her upper Lip, the more it was cut, the bigger it grew, ſo that ſhe at the laſt drank <hi>Coffee,</hi> and the Corn dropt into the Diſh as ſhe held it to her mouth, as clean as an <hi>Acron</hi> out of the <hi>Shell.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Democ.</speaker>
+               <p>I ſhould like this Cure beſt, if <hi>Coffee</hi> would bring the Corns ſo eaſily from my Toes.</p>
+            </sp>
+            <sp>
+               <speaker>Blac.</speaker>
+               <p>In <hi>Spellantego, Johannes Delmonack</hi> drank Coffee for the <hi>Morbus Gallicus,</hi> and the bridge was ſo dry'd, that (as he lay a ſleep at night with his mouth open) his Noſe dropt in and choackt him.</p>
+            </sp>
+            <sp>
+               <speaker>Democ.</speaker>
+               <p>This was a rare Cure, but for that trick Ile have mine ſow'd on faſter.</p>
+            </sp>
+            <sp>
+               <speaker>Black.</speaker>
+               <p>One <hi>Roſe Bulborne</hi> being troubled with the blew <hi>Jaun<g ref="char:EOLhyphen"/>dies,</hi> and drinking <hi>Coffee,</hi> took her bed, turn'd black, and the Searchers coming the next day to view her, inſerted her in the Clerks book, to be put in the <hi>Bill</hi> of <hi>Mortality</hi> the next week.</p>
+            </sp>
+            <sp>
+               <speaker>Democ.</speaker>
+               <p>This was a ſtrange cure, and I wonder the <hi>Dyers</hi> do not prove good cuſtomers to you, for there's but little good <hi>Black</hi> in <hi>England.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Black.</speaker>
+               <p>
+                  <hi>Theodore Flaſhbooth</hi> of <hi>Lime-houſe</hi> being ſtopt with flegm, drank <hi>Coffee</hi> till he was ſo dry'd up, that an unskilful <hi>Mountebank</hi> gave order to let him blood, inſtead of which iſ<g ref="char:EOLhyphen"/>ſued forth duſt and vapour, that he was ſmother'd to a per<g ref="char:EOLhyphen"/>fect cure. And is intended to write a book in praiſe of <hi>Coffee,</hi> which when publiſht, will cauſe much admiration to the Reader.</p>
+            </sp>
+            <sp>
+               <speaker>Democ.</speaker>
+               <p>I ſhall buy one of thoſe books to increaſe my Libra<g ref="char:EOLhyphen"/>ry; but theſe are cures I never heard of before. I know <hi>Coffee</hi> is good for ſome things, but not for hot bodies.</p>
+            </sp>
+            <sp>
+               <speaker>Black.</speaker>
+               <p>For moſt diſeaſes it is good, though not for Conſti<g ref="char:EOLhyphen"/>tutions that are dry and hot.</p>
+            </sp>
+            <sp>
+               <speaker>Democ.</speaker>
+               <p>What, have you no other Liquor but <hi>Coffee?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Blac.</speaker>
+               <p>Yes, we have <hi>Bracket, China-Ale,</hi> and pure <hi>Cider.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Demo.</speaker>
+               <lg>
+                  <l>Truly thoſe Liquors are admirable, I could live</l>
+                  <l>In a Spring from whence ſuch Liquor flowes,</l>
+                  <l>Although I had but room for Mouth and Noſe.</l>
+               </lg>
+            </sp>
+            <sp>
+               <pb n="7" facs="tcp:184479:5"/>
+               <speaker>Black.</speaker>
+               <p>But what ſayſt thou to <hi>Chocholate?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Democ.</speaker>
+               <p>I like that well for Lads and Laſſes, therefore I'le leave it to them to diſpute of.</p>
+               <lg>
+                  <l>Come Mr. <hi>Black-burnt</hi> let's no longer ſtay,</l>
+                  <l>Yonder comes <hi>Pris</hi> and <hi>Cis,</hi> let us away.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Blac.</speaker>
+               <lg>
+                  <l>Democritus I thank thee for thy pain</l>
+                  <l>VVee'l leave the Milk-maids in a merry ſtrain.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Democ.</speaker>
+               <lg>
+                  <l>The Maids by me ſhall never be perplext,</l>
+                  <l>I know that <hi>Chocolate</hi> is their Text.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Cis.</speaker>
+               <p>Well met honeſt <hi>Peg;</hi> whether away ſo faſt.</p>
+            </sp>
+            <sp>
+               <speaker>Peg.</speaker>
+               <p>I'am going to Old <hi>Bullocks</hi> to ſpeak with his man <hi>Roger</hi> that I may hear what news he brings from the <hi>Coffee-Houſe.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cis.</speaker>
+               <p>Fogh, <hi>Coffee-Houſe,</hi> what, doth he drink that black, naſty, Hel-burnt Liquor. he'l ere long bring himſelf to nothing as our Man <hi>Tom</hi> has done already.</p>
+            </sp>
+            <sp>
+               <speaker>Peg.</speaker>
+               <p>No, he drinks <hi>Chocolate,</hi> which is a rich drink indeed; 'twil make him as ſtrong in the back as a Lion; he's as nimble as a Squirril, as brisk as a body-Lowſe, and as lively as an Eel, only by the vertue of that Liquor; i'ts a brave pleaſant Li<g ref="char:EOLhyphen"/>quor, for I have drank of it my ſelf.</p>
+            </sp>
+            <sp>
+               <speaker>Cis.</speaker>
+               <p>Prethee <hi>Peg</hi> tell me what manner of Liquor that is?</p>
+            </sp>
+            <sp>
+               <speaker>Peg.</speaker>
+               <p>Marry ſuch Liquor as would make your teeth water to taſt it, for I'am ſure it made me come too't ſo luſtily, that I ſhall never forget it.</p>
+            </sp>
+            <sp>
+               <speaker>Cis.</speaker>
+               <p>Thou makſt me long for ſome of that, what is it made off?</p>
+            </sp>
+            <sp>
+               <speaker>Peg.</speaker>
+               <p>Efaith <hi>Cis,</hi> its made of good new Milk (with which I ſerve a <hi>Coffee-houſe</hi> every day) which is well boyld with yolks of Eggs, ſtore of Sugar, and a dainty ſweet taſted thing called <hi>Chocolate.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Cis.</speaker>
+               <p>Marry <hi>Peg</hi> that can't chuſe but be good indeed.</p>
+            </sp>
+            <sp>
+               <speaker>Peg.</speaker>
+               <p>I have found it ſo, to the coſt of poor <hi>Roger,</hi> and ſome pain to my ſelf, but ſweet meat muſt have ſowre fawce.</p>
+            </sp>
+            <sp>
+               <speaker>Cis.</speaker>
+               <p>Prethee <hi>Peg</hi> tell me the whole ſtory.</p>
+            </sp>
+            <sp>
+               <speaker>Peg.</speaker>
+               <p>In truth Ile deal plainly with thee; our man <hi>Roger</hi> after dinner about this time twelve moneth perſwaded me to go to a <hi>Coffee-houſe,</hi> where we drank ſtore of this <hi>Chocolate,</hi> and in the afternoon go<g ref="char:EOLhyphen"/>ing towards <hi>High-berry-barn</hi> to milk the Kine, I met <hi>Roger,</hi> who was grown ſo luſty by the vertue of that Liquor, that he gave me a green gown, tumbled me on a bank, and after ſome amo<g ref="char:EOLhyphen"/>rous kiſſes, I could not deny any courteſie he deſired: ſo that
+<pb n="8" facs="tcp:184479:6"/> at laſt (like a mettleſome Lad) he ſtole away my Maiden-head, which to my ſorrow proved a Timpany in my belly, &amp; in three quarters of a year I fell in Mother Midnights hands, and was cured of the Tinpany, which had two Legs, and lies now at <hi>Ro<g ref="char:EOLhyphen"/>gers</hi> charge, ten <hi>ſhillings</hi> a moneth, beſides <hi>Blankets, Linnen,</hi> and <hi>Cradle;</hi> but yet he is ſo kind, continuing at this Liquor that I have little cauſe to repent my bargain, in reſpect of his Love and Loyalty.</p>
+            </sp>
+            <sp>
+               <speaker>Cis.</speaker>
+               <p>Say'ſt thou ſo <hi>Peg,</hi> Efaith Ile ſee what I can do to per<g ref="char:EOLhyphen"/>ſwade our <hi>Tom</hi> to leave <hi>Coffee,</hi> and drink <hi>Chocolate,</hi> that I may enjoy a little of the bleſſing other Maids have, though I ſell one of my Fathers Cows to draw him too't.</p>
+            </sp>
+            <sp>
+               <speaker>Peg.</speaker>
+               <lg>
+                  <l>And ſo i'ts beſt dear ſiſter <hi>Ciſly</hi> try.</l>
+                  <l>Although you by the walls a moneth do lye.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Cis.</speaker>
+               <lg>
+                  <l>The charge ſhall lie upon my Fathers ſcore,</l>
+                  <l>Though, when I've try'd, I lie a moneth or more;</l>
+                  <l>I've now learn'd wit<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the thanks Ile give to you,</l>
+                  <l>And till we meet again, <hi>dear Cis,</hi> adieu.</l>
+               </lg>
+            </sp>
+            <div type="poem">
+               <head>In Anſwer to the Poſcript of the ſuppoſed Mountebank DEMOCRITUS.</head>
+               <lg>
+                  <l>
+                     <hi>DEmocritus</hi> was drowſie when he writ</l>
+                  <l>In Dialogue, the Fragments of his Wit,</l>
+                  <l>If not aſleep, or elſe he would have ſought,</l>
+                  <l>And found theſe Cures that were by <hi>Coffee</hi> wrought;</l>
+                  <l>Both for the <hi>Palſy, Madneſs, Morbus, Ptifick,</hi>
+                  </l>
+                  <l>So that they'l need no Mountebank or Phyſick</l>
+                  <l>For <hi>Gout</hi> or <hi>Scurvy,</hi> it doth do no leſs</l>
+                  <l>For <hi>Jaundies, Timpany,</hi> and <hi>Barrenneſs,</hi>
+                  </l>
+                  <l>Which are in order in this Treatiſe writ,</l>
+                  <l>To prove <hi>Democritus</hi> beſides his wit.</l>
+                  <l>He often Writeth of the <hi>Stigyon</hi> Lake,</l>
+                  <l>As though he would to Hell a Voyage make,</l>
+                  <l>Old <hi>Charon</hi> can (for's Labour) grant no more,</l>
+                  <l>But quit a penny for his paſſage ore:</l>
+                  <l>Thus to confute him, if this will not do,</l>
+                  <l>Ile pawn my <hi>Coffee-Houſe</hi> and <hi>Coffee</hi> too,</l>
+                  <l>Till when, <hi>Democritus</hi> I bid farewell,</l>
+                  <l>I'le to my Chamber, you or'e <hi>STIX</hi> to <hi>HELL.</hi>
+                  </l>
+               </lg>
+               <pb facs="tcp:184479:6"/>
+               <pb facs="tcp:184479:7"/>
+               <pb facs="tcp:184479:7" rendition="simple:additions"/>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
